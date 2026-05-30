@@ -1,20 +1,20 @@
 {
-  "name": "AFK Bot",
+  "name": "Rudra ka bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Rudra ka bot",
+    "password": "159357",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "wite_smp.aternos.me",
+    "port": 58389,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 74,
     "z": 0
   },
   "utils": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
