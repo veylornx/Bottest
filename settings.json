@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Kingdomcdm.aternos.me:30329",
+    "port": 30329,
     "version": "",
     "try-creative": false
   },
