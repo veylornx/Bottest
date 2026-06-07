@@ -28,9 +28,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 127777770,
       "messages": [
         " a regular pancalau",
         "Subscribe to madalin",
@@ -43,18 +43,18 @@
     "max-reconnect-delay": 999999999999999
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
-      "speed": 3000
+      "speed": 0
     },
     "look-around": {
-      "enabled": true,
-      "interval": 5000
+      "enabled": false,
+      "interval": 5777000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
@@ -62,7 +62,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
