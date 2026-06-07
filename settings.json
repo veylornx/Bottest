@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afkbotpinci",
+    "username": "afkbotpincalau",
     "password": "PANC",
     "type": "offline"
   },
@@ -83,6 +83,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
