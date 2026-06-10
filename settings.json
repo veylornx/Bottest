@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "W123-eREI.aternos.me",
+    "port": 18445,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
