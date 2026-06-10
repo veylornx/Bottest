@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "hatchetfish.aternos.host",
+    "port": 41668,
+    "version": "26.1.2(69)",
     "try-creative": false
   },
   "position": {
