@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SamAFKBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SamHDSMP.aternos.me",
+    "port": 17166,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages": ["I'm just chilling", "AFK Bot active"]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -68,20 +64,7 @@
     "attack-mobs": true,
     "auto-eat": true
   },
-  "beds": {
-    "pick-up-day": false,
-    "place-night": false
-  },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
-  },
-  "chat": {
-    "respond": true
+    "enabled": false
   }
 }
