@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "labib_shah.aternos.me",
+    "port": 34024,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
