@@ -63,7 +63,7 @@
     "beds": false,
     "chat": true,
     "console-commands": true
-  },port 47669
+  },
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
