@@ -1,8 +1,8 @@
 {
   "name": "minecraft-afk-bot",
   "version": "2.2",
-  "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
-  "main": "index.js",
+  "description": about2435.aternos.me
+  "main": 28308
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
