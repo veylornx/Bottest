@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WhoIsMe",
+    "username": "SlobosAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50224,
+    "ip": "your-server-address.com",
+    "port": 00000,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 240,
       "messages": [
-        "GM GM everyone!!",
-        "LF Puno ng saging",
-        "Helloooo"
+        "I'm a regular Minecraft Player",
+        "Subscribe to Slobos!",
+        "Hello, evrybody!"
       ]
     },
     "chat-log": true,
